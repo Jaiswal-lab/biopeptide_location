@@ -1,5 +1,5 @@
 # biopeptide_location
-Scripts to find and locate bioactive peptides in fast afiles
+Scripts to find and locate bioactive peptides in fasta files
 
 ## To run
 1. Download repository
